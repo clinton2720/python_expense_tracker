@@ -17,4 +17,12 @@ A simple command-line expense tracker written in Python.
 ## Sample usage
 
 ```bash
-python tracker.py
+Sample menu
+
+==== Expense Tracker ====
+1. Add Expense
+2. View Totals by Category
+3. Exit
+```
+Author
+Clinton Vincent
